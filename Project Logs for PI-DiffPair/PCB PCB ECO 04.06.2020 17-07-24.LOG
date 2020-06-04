@@ -1,0 +1,212 @@
+Added Component: Designator=C1(1608[0603])
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "478-6344-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C104K4Z2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/06035C104K4Z2A/AVX/view-part/572777/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0603)
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0603)
+Add component (AddParameter): Name = "Value"; Value = "60R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0603)
+Add component (AddParameter): Name = "Value"; Value = "60R"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0603)
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0603)
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0603)
+Add component (AddParameter): Name = "Value"; Value = "60R"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0603)
+Add component (AddParameter): Name = "Value"; Value = "60R"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0603)
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R0603)
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0603)
+Add component (AddParameter): Name = "Value"; Value = "60R"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R0603)
+Add component (AddParameter): Name = "Value"; Value = "60R"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R0603)
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R0603)
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0603)
+Add component (AddParameter): Name = "Value"; Value = "60R"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R0603)
+Add component (AddParameter): Name = "Value"; Value = "60R"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R0603)
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=U1(ST485CDR)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1564307"; VariantName = "[No Variations]"
+Added Component: Designator=U2(*ARDUINO_A000053)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "A000053"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/A000053/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(ST485CDR)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1564307"; VariantName = "[No Variations]"
+Added Component: Designator=U4(ST485CDR)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1564307"; VariantName = "[No Variations]"
+Added Component: Designator=U5(ST485CDR)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1564307"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=R1-2
+Added Pin To Net: NetName=+5V Pin=R5-2
+Added Pin To Net: NetName=+5V Pin=R9-2
+Added Pin To Net: NetName=+5V Pin=R13-2
+Added Pin To Net: NetName=+5V Pin=U1-8
+Added Pin To Net: NetName=+5V Pin=U2-29
+Added Pin To Net: NetName=+5V Pin=U3-8
+Added Pin To Net: NetName=+5V Pin=U4-8
+Added Pin To Net: NetName=+5V Pin=U5-8
+Added Net: Name=+5V
+Added Pin To Net: NetName=D_N Pin=P1-2
+Added Pin To Net: NetName=D_N Pin=P2-2
+Added Pin To Net: NetName=D_N Pin=P3-2
+Added Pin To Net: NetName=D_N Pin=P4-2
+Added Pin To Net: NetName=D_N Pin=R3-2
+Added Pin To Net: NetName=D_N Pin=R4-2
+Added Pin To Net: NetName=D_N Pin=R7-2
+Added Pin To Net: NetName=D_N Pin=R8-2
+Added Pin To Net: NetName=D_N Pin=R11-2
+Added Pin To Net: NetName=D_N Pin=R12-2
+Added Pin To Net: NetName=D_N Pin=R15-2
+Added Pin To Net: NetName=D_N Pin=R16-2
+Added Pin To Net: NetName=D_N Pin=U1-7
+Added Pin To Net: NetName=D_N Pin=U3-7
+Added Pin To Net: NetName=D_N Pin=U4-7
+Added Pin To Net: NetName=D_N Pin=U5-7
+Added Net: Name=D_N
+Added Pin To Net: NetName=D_P Pin=P1-1
+Added Pin To Net: NetName=D_P Pin=P2-1
+Added Pin To Net: NetName=D_P Pin=P3-1
+Added Pin To Net: NetName=D_P Pin=P4-1
+Added Pin To Net: NetName=D_P Pin=R1-1
+Added Pin To Net: NetName=D_P Pin=R2-2
+Added Pin To Net: NetName=D_P Pin=R5-1
+Added Pin To Net: NetName=D_P Pin=R6-2
+Added Pin To Net: NetName=D_P Pin=R9-1
+Added Pin To Net: NetName=D_P Pin=R10-2
+Added Pin To Net: NetName=D_P Pin=R13-1
+Added Pin To Net: NetName=D_P Pin=R14-2
+Added Pin To Net: NetName=D_P Pin=U1-6
+Added Pin To Net: NetName=D_P Pin=U3-6
+Added Pin To Net: NetName=D_P Pin=U4-6
+Added Pin To Net: NetName=D_P Pin=U5-6
+Added Net: Name=D_P
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-31
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R7-1
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=R11-1
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=R15-1
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Pin To Net: NetName=NetU1_1 Pin=U2-7
+Added Net: Name=NetU1_1
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_2 Pin=U1-3
+Added Pin To Net: NetName=NetU1_2 Pin=U2-22
+Added Net: Name=NetU1_2
+Added Pin To Net: NetName=NetU1_4 Pin=U1-4
+Added Pin To Net: NetName=NetU1_4 Pin=U2-13
+Added Net: Name=NetU1_4
+Added Pin To Net: NetName=NetU2_8 Pin=U2-8
+Added Pin To Net: NetName=NetU2_8 Pin=U3-1
+Added Net: Name=NetU2_8
+Added Pin To Net: NetName=NetU2_9 Pin=U2-9
+Added Pin To Net: NetName=NetU2_9 Pin=U4-1
+Added Net: Name=NetU2_9
+Added Pin To Net: NetName=NetU2_10 Pin=U2-10
+Added Pin To Net: NetName=NetU2_10 Pin=U5-1
+Added Net: Name=NetU2_10
+Added Pin To Net: NetName=NetU2_14 Pin=U2-14
+Added Pin To Net: NetName=NetU2_14 Pin=U3-4
+Added Net: Name=NetU2_14
+Added Pin To Net: NetName=NetU2_15 Pin=U2-15
+Added Pin To Net: NetName=NetU2_15 Pin=U4-4
+Added Net: Name=NetU2_15
+Added Pin To Net: NetName=NetU2_16 Pin=U2-16
+Added Pin To Net: NetName=NetU2_16 Pin=U5-4
+Added Net: Name=NetU2_16
+Added Pin To Net: NetName=NetU2_23 Pin=U2-23
+Added Pin To Net: NetName=NetU2_23 Pin=U3-2
+Added Pin To Net: NetName=NetU2_23 Pin=U3-3
+Added Net: Name=NetU2_23
+Added Pin To Net: NetName=NetU2_24 Pin=U2-24
+Added Pin To Net: NetName=NetU2_24 Pin=U4-2
+Added Pin To Net: NetName=NetU2_24 Pin=U4-3
+Added Net: Name=NetU2_24
+Added Pin To Net: NetName=NetU2_25 Pin=U2-25
+Added Pin To Net: NetName=NetU2_25 Pin=U5-2
+Added Pin To Net: NetName=NetU2_25 Pin=U5-3
+Added Net: Name=NetU2_25
+Added Differential Pair: Name=D
+Added Member To Class: ClassName=Schematics Member=Component C1 06035C104K4Z2A
+Added Member To Class: ClassName=Schematics Member=Component P1 Header 2
+Added Member To Class: ClassName=Schematics Member=Component P2 Header 2
+Added Member To Class: ClassName=Schematics Member=Component P3 Header 2
+Added Member To Class: ClassName=Schematics Member=Component P4 Header 2
+Added Member To Class: ClassName=Schematics Member=Component R1 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Schematics Member=Component R2 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Schematics Member=Component R3 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Schematics Member=Component R4 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Schematics Member=Component R5 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Schematics Member=Component R6 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Schematics Member=Component R7 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Schematics Member=Component R8 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Schematics Member=Component R9 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Schematics Member=Component R10 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Schematics Member=Component R11 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Schematics Member=Component R12 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Schematics Member=Component R13 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Schematics Member=Component R14 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Schematics Member=Component R15 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Schematics Member=Component R16 CPF-A-0603B100KE1
+Added Member To Class: ClassName=Schematics Member=Component U1 RS485 tranciever
+Added Member To Class: ClassName=Schematics Member=Component U2 A000053
+Added Member To Class: ClassName=Schematics Member=Component U3 RS485 tranciever
+Added Member To Class: ClassName=Schematics Member=Component U4 RS485 tranciever
+Added Member To Class: ClassName=Schematics Member=Component U5 RS485 tranciever
+Added Member To Class: ClassName=DIFF PAIR DATA Member=Wire D_N
+Added Member To Class: ClassName=DIFF PAIR DATA Member=Wire D_P
+Added Room: Name=Schematics
